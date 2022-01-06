@@ -1,0 +1,59 @@
+.navbar-nav {
+    padding-left: 30px;
+}
+
+.image-wrap {
+    width: 280px;
+    height: 240px;
+}
+
+/* .container-lg .container {
+    margin-top: 30px;
+    padding-top: 30px;
+} */
+
+.card-deck {
+    margin-top: 40px;
+}
+
+
+.card-group .card {
+    margin-right: 40px;
+}
+
+.container-lg {
+    margin-top: 35px;
+    box-sizing: content-box;
+}
+
+.height-500 {
+    height: 500px;
+}
+
+.container-lg .row {
+    margin-left: 25px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.row .col {
+    margin-right: 1px;
+}
+
+.bg-grey {
+    background-color: #f2f2f2;
+}
+
+.footer {
+    margin-top: 20px !important;
+    height: 60px;
+    /* padding-top: 1px; */
+}
+
+.row .padding-top {
+    padding-top: 15px !important;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}

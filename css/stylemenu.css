@@ -1,0 +1,47 @@
+.navbar-nav {
+    padding-left: 30px;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+.image-wrap {
+    /* width: 300px; */
+    height: 250px;
+}
+
+.card-deck {
+    margin-top: 40px;
+}
+
+.card-group .card {
+    margin-right: 40px;
+}
+
+.container-lg {
+    margin-top: 65px;
+}
+
+.container-lg .row {
+    margin-top: 35px;
+}
+
+.row .col {
+    margin-right: 1px;
+}
+
+.row .padding-top {
+    padding-top: 15px !important;
+}
+
+
+.footer {
+    margin-top: 40px;
+    height: 60px;
+    /* padding-top: 1px; */
+}
+
+.bg-grey {
+    background-color: #f2f2f2;
+}

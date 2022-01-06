@@ -1,0 +1,71 @@
+.navbar-nav {
+    padding-left: 30px;
+}
+
+.container-lg {
+    margin-top: 15px;
+}
+
+
+.col .embed-responsive {
+    margin-top: 20px;
+}
+
+.margin-top {
+    margin-top: 40px;
+}
+
+.note {
+    margin-top: 10px;
+}
+
+.price {
+    margin-top: 5px;
+}
+
+
+.footer {
+    position: absolute;
+    margin-top: 40px;
+    height: 60px;
+    /* padding-top: 1px; */
+}
+
+.bg-grey {
+    background-color: #f2f2f2;
+}
+
+.row .padding-top {
+    padding-top: 15px !important;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+.img-prod {
+    height: 60px;
+    width: 70px;
+}
+
+.min-ord {
+    margin-right: 8px;
+}
+
+.plus-ord {
+    margin-left: 8px;
+}
+
+body {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+td span {
+    color: black;
+}
